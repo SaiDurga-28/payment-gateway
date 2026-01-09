@@ -107,6 +107,42 @@ To stop services:
 
 docker-compose down
 
+## Screenshots
+
+### Merchant Dashboard
+
+**Login Page**
+![Login](screenshots/LoginPage.png)
+
+**Dashboard Home**
+![Dashboard](screenshots/MerchantDashboard.png)
+
+**Transactions Page**
+![Transactions](screenshots/Transactions.png)
+
+### Checkout Flow
+
+**Checkout Page**
+![Checkout](screenshots/CheckoutPage.png)
+
+**UPI Payment**
+![UPI Checkout](screenshots/UPI_Payment.png)
+
+**Card Payment**
+![Card Checkout](screenshots/Card_Payment.png)
+
+
+## Demo Video
+
+A complete demo showing:
+- Order creation via API
+- Checkout flow
+- Successful payment
+
+📽️ Video Link:  
+https://drive.google.com/file/d/1gK6qeXw1nnajObNd3_IE7FLmR7ZSbEjA/view?usp=sharing
+
+
 ## Notes
 
 Login is dummy as per instructions
